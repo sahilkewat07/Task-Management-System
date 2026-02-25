@@ -1,4 +1,4 @@
-# Flux — Employee Task Manager
+# Employee Task Manager
 
 **Flux** is a high-performance, enterprise-grade SaaS platform designed for modern task management. It features a clean, professional light-mode dashboard UI, real-time synchronization, and a hardened security architecture, providing a seamless experience for both Administrators and Employees.
 
